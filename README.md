@@ -128,7 +128,7 @@ http://127.0.0.1:8050/
 
 ## 🧰 Technologies
 
-- Python 3.10+
+- Python 3.14.5
 - [Plotly Dash](https://dash.plotly.com/)
 - [Pandas](https://pandas.pydata.org/)
 - [Plotly](https://plotly.com/python/)

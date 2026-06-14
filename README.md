@@ -33,7 +33,7 @@ Create an interactive dashboard to visualize a sales dataset and derive actionab
 
 | File | Description |
 |------|-------------|
-| `app.py` | Main Dash application — all charts and callbacks |
+| `Dashboard.py` | Main Dash application — all charts and callbacks |
 | `sales_data.csv` | Sample retail sales dataset (60 records, 2024) |
 | `requirements.txt` | Python dependencies |
 | `README.md` | Project documentation |
